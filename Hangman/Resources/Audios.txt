@@ -1,0 +1,5 @@
+./Resources/burro.wav
+./Resources/errou.wav
+./Resources/naofacil.wav
+./Resources/Vel1.wav
+./Resources/Vel2.wav
